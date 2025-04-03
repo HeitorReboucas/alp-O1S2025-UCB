@@ -37,6 +37,7 @@ printf("%.2f++ = %.2f\n", n1-1, n1);
 
 // Decremento
 n1--;
-printf("%.2f++ = %.2f\n", n1+1, n1);
+printf("%.2f--
+ = %.2f\n", n1+1, n1);
 return 0;
 }
