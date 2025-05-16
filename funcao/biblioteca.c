@@ -15,3 +15,9 @@ int ler_maior_2n(int a, int b){
 int ler_maior_3n(int a, int b, int c){
     return maior_2n(maior_2n(a, b), c)
 }
+
+//Comparar o maior entre N numeros inteiros
+
+int maior_n(int numeros[], int n){
+
+}
