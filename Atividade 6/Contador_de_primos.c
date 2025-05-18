@@ -20,7 +20,7 @@ int ehPrimo(int num) {
         }
     }
     return 1; // é primo
-}g
+}
 
 int main(int argc, char* argv[]) {
     int numero;
