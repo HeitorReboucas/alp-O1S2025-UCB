@@ -14,7 +14,7 @@ int main(int argc, char* argv[]){
     x = atoi (argv[1]);
     y = atoi (argv[2]);
     printf("maior (%d, %d): %d", x, y, ler_maior_2n(x, y));
-    printf("MENOR (%d, %d): %d", x, y, ler_MENOR_2n(x, y));
+    printf("menor (%d, %d): %d", x, y, ler_MENOR_2n(x, y));
         } 
         else{
             x = atoi (argv[1]);
