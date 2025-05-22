@@ -19,7 +19,7 @@ int ler_maior_3n(int a, int b, int c){
 //Comparar o maior entre N numeros inteiros
 
 int ler_MENOR_2n(int a, int b){
-    int maior;
+    int menor;
     if(a < b){
         menor = a;
     }
