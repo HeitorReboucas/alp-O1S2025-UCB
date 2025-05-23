@@ -19,8 +19,9 @@ int main(int argc, char* argv[]){
             y = atoi (argv[2]);
             z = atoi (argv[3]);
              printf("maior (%d, %d, %d): %d", x, y, z, ler_maior_3n(x, y, z));} 
+             return 0;
         }
 
 
-    return 0;
-    }
+    
+    
