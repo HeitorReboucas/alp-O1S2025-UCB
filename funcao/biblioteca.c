@@ -1,5 +1,4 @@
-// Retornar o maior entre dois numeros
- Retorna o maior entre dois numeros inteiros.
+// Retornar o maior entre dois numeros Retorna o maior entre dois numeros inteiros.
 int ler_maior_2n(int a, int b){
     int maior;
     if(a > b){
@@ -18,6 +17,13 @@ int ler_maior_3n(int a, int b, int c){
 
 //Comparar o maior entre N numeros inteiros
 
-int maior_n(int numeros[], int n){
-
+int ler_MENOR_2n(int a, int b){
+    int menor;
+    if(a < b){
+        menor = a;
+    }
+    else{
+        menor = b;
+    }
+    return menor;
 }
