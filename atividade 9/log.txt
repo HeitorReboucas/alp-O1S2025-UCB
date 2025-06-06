@@ -1,0 +1,33 @@
+Menos Valor: 1
+Maior Valor: 4
+Valor Desejado: 3
+
+Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+numero sorteado1.000000Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+numero sorteado0.000000Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+numero sorteado0.000000Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+numero sorteado: 0.000000Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+numero sorteado: 2Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
+numero sorteado: 3
