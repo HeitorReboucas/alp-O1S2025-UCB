@@ -30,4 +30,8 @@ numero sorteado: 2Menos Valor: 2
 Maior Valor: 5
 Valor Desejado: 4
 
+numero sorteado: 3Menos Valor: 2
+Maior Valor: 5
+Valor Desejado: 4
+
 numero sorteado: 3
